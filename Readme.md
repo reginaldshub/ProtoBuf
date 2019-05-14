@@ -34,8 +34,10 @@ Google developed Protocol Buffers for use in their internal services. It is a bi
 ### Installation 
 > Node.js
 
-```npm install protobufjs [--save --save-prefix=~]
+``` 
+$ npm install protobufjs
 ```
+
 ```js 
 var protobuf = require("protobufjs");
 ```
